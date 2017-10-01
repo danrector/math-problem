@@ -2,9 +2,8 @@
 
 This is a function that logs the multiples of 3 and 5 below 1000, then adds their sum together.
 
-To run:
+To run, just clone and run:
 ````
-$git clone https://github.com/drector1/math-problem.git
 $npm install
 $node mathProblems.js.
 ````
